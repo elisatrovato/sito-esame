@@ -1,0 +1,306 @@
+header{
+    color: rgb(51,47,46);
+    text-align: center;
+    font-family: "twilightnewmoon";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+    background-color: rgb(204,198,202); opacity: 62.5%; margin-left: -1%; margin-right: -0.5%; border-radius: 1%; padding-top: 0.5%; margin-top: -1%;
+}
+header:hover{
+    cursor: pointer;
+}
+#footer1{
+    color: rgb(51,47,46);
+    text-align: center;
+    font-size: 18px;
+    position: relative;
+    width: 100%;
+    font-family: "twilightnewmoon";
+    padding-top: 2.5%;
+}
+#footer2{
+    color: rgb(51,47,46);
+    text-align: center;
+    font-size: 18px;
+    position: relative;
+    width: 100%;
+    font-family: "twilightnewmoon";
+    height: 2rem;
+}
+#footer3{
+    color: rgb(51,47,46);
+    text-align: center;
+    font-size: 18px;
+    position: relative;
+    width: 100%;
+    font-family: "twilightnewmoon";
+    height: 2rem;
+}
+#footer4{
+    color: rgb(51,47,46);
+    text-align: center;
+    font-size: 18px;
+    position: relative;
+    width: 100%;
+    font-family: "twilightnewmoon";
+    height: 2rem;
+}
+#footer5{
+    color: rgb(51,47,46);
+    text-align: center;
+    font-size: 18px;
+    position: relative;
+    width: 100%;
+    font-family: "twilightnewmoon";
+    height: 2rem;
+}
+nav ul li{
+    text-align: center;
+    letter-spacing: 10px;
+    font-family: "twilightnewmoon";
+    font-size: 20px;
+}
+a{
+    color: rgb(51,47,46);
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.bodyback1{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bodyback2{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bodyback3{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bodyback4{
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.bodyback5{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#p3{    
+    color: rgb(204,198,202);
+    text-align: center;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 0.5%;
+    font-size: 20px;
+    line-height: 40px;
+    text-indent: 10px;
+    font-family: 'IM Fell Great Primer', serif;
+    background-color: rgb(51,47,46); opacity: 70%; margin-left: 15%; margin-right: 15%; padding-top: 0.5%; padding-bottom: 0.5%; border-radius: 1%;
+}
+#p4{
+    color: rgb(204,198,202);
+    text-align: center;
+    margin-top: 1%;
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    font-size: 20px;
+    line-height: 40px;
+    text-indent: 10px;
+    font-family: 'IM Fell Great Primer', serif;
+    background-color: rgb(51,47,46); opacity: 70%; margin-left: 15%; margin-right: 15%; padding-top: 2.5%; padding-bottom: 0.1%; border-radius: 1%;
+}
+#p5{
+    color: rgb(204,198,202);
+    text-align: center;
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    font-size: 20px;
+    line-height: 40px;
+    text-indent: 10px;
+    font-family: 'IM Fell Great Primer', serif;
+    background-color: rgb(51,47,46); opacity: 70%; margin-left: 15%; margin-right: 15%; padding-top: 2.5%; padding-bottom: 2.5%; border-radius: 0.5%;
+}
+#h1, #h2, #h3, #h4, #h5{
+    padding-top: 1%;
+}
+#section1{
+    text-align: center;
+    color: rgb(204,198,202);
+    line-height: 40px;
+    font-family: 'IM Fell Great Primer', serif;
+    font-size: 20px;
+    margin-top: 1.5%;
+    padding-top: 1.5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-indent: 10px;
+    background-color: rgb(51,47,46); opacity: 70%; margin-left: 15%; margin-right: 15%; padding-top: 1.5%; padding-bottom: 1.5%; border-radius:1%;
+}
+#section2{
+    text-align: left;
+    color: rgb(51,47,46);
+    line-height: 25px;
+    font-family: 'IM Fell Great Primer', serif;
+    font-size: 20px;
+    margin-bottom: 1.5%;
+    margin-left: 2.5%;
+}
+#section22{
+    text-align: left;
+    color: rgb(204,198,202);
+    line-height: 25px;
+    font-family: 'IM Fell Great Primer', serif;
+    font-size: 20px;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    margin-left: 2.5%;
+}
+.active{
+    background-color: white; 
+    border-radius: 3px 3px 0px 0px;
+    padding: 5px 4px 1px 12px;
+}
+#span01{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#span1{
+    font-style: italic;
+    font-weight: bold;
+}
+#span3{
+    font-weight: bold;
+    font-family: "twilightnewmoon";
+    font-size: 35px;
+    color: rgb(110,110,110);
+}
+#span5{
+    font-weight: bold;
+    font-family: "twilightnewmoon";
+    font-size: 35px;
+    color: rgb(110,110,110);
+}
+#img0{
+    height: 290px;
+    width: 305px;
+    border-radius: 1%;
+    padding-top: 2%;
+}
+#linkyoutube{
+    color: white;
+}
+#linkyoutube:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: rgb(204,189,202);
+}
+#icon1{
+    font-size: 35px;
+    margin-top: 5%;
+    margin-right: 1.5%;
+    color: rgb(204,198,202);
+    cursor: pointer;
+}
+#icon2{
+    font-size: 35px;
+    margin-top: 5%;
+    margin-right: 1.5%;
+    color: rgb(204,198,202);
+    cursor: pointer;
+}
+#icon1:hover{
+    color: white;
+}
+#icon2:hover{
+    color: white;
+}
+#icon3{
+    font-size: 35px;
+    margin-top: 5%;
+    color: rgb(204,198,202);
+    cursor: pointer;
+}
+#icon3:hover{
+    color: white;
+}
+form{
+    font-family: 'IM Fell Great Primer', serif; color: rgb(204, 198, 202);
+    margin-left: 40%;
+}
+label, input[type=text], textarea{
+    display: block;
+    box-sizing: border-box;
+    width: 30%;
+    margin-top: 5%;
+}
+input[type=text], textarea{
+    padding: 15px;
+    border: 1px solid rgb(204,198,202);
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-family: 'IM Fell Great Primer', serif; color: rgb(204, 198, 202);
+}
+input[type=submit]{
+    background-color: rgb(51,47,46);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 70%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+input[type=submit]:hover{
+    background-color: rgb(204,198,202);
+}
+#iconuser{
+    margin-right: 1.5%;
+    font-size: 30px;
+}
+#iconfilm{
+    margin-right: 1.5%;
+    font-size: 30px;
+}
+iframe{
+    margin-left: 2.5%;
+    opacity: 87.5%;
+}
+#imgarchitettura{
+    height: 355px;
+    width: 452.5px;
+
+}
+#imghome{
+    height: 355px;
+    width: 452.5px;
+}
+#imgfilm{
+    height: 355px;
+    width: 452.5px;
+}
+#imginfo{
+    height: 355px;
+    width: 452.5px;
+}
+#imgcontatti{
+    height: 355px;
+    width: 452.5px;
+}
+#imgdocumentazione{
+    height: 355px;
+    width: 452.5px;
+}
+
+    

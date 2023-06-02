@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Contatti</title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com"> 
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+        <link href="https://fonts.googleapis.com/css2?family=Acme&family=IM+Fell+Great+Primer&family=Ibarra+Real+Nova&family=Roboto&family=Roboto+Slab&family=Tenor+Sans&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/374cd22671.js" crossorigin="anonymous"></script>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <style>
+            @font-face{
+                font-family: "twilightnewmoon";
+                src: url("twilight_new_moon/twilight\ New\ Moon.ttf");
+            }
+        </style>
+    </head>
+    <body>
+        <body background="img/clouds.png" class="bodyback4"></body>
+        <header>
+            <h1 id="h4">Twilight Melodies</h1>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html"><span class="span11">HOME</span></a>
+                        <a href="film.html"><span class="span11">FILM</span></a>
+                        <a href="info.html"><span class="span11">INFO</span></a>
+                        <a class="active nounderline" href="contatti.html"><span class="span11">CONTATTI</span></a>
+                        <a href="documentazione.html"><span class="span11">DOCUMENTAZIONE</span></a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <p id="p4">Avete dei consigli da darmi o delle iniziative da propormi? Fatemelo sapere lasciando qui sotto un messaggio o contattandomi direttamente sui seguenti social network! (NB: Se decidete di mandarmi un messaggio, inserite qui sotto anche il vostro indirizzo email per ricevere risposta).
+        <br>
+        <a href="https://www.facebook.com/profile.php?id=100079928117936"><i class="fa-brands fa-facebook" id="icon1"></i></a><a href="https://www.instagram.com/elisatrovato_/"><i class="fa-brands fa-instagram" id="icon2"></i></a>
+        <form name="formmail" method="post" action="https://formspree.io/webmaster@twilightmelodies.com">
+
+        <input type="hidden" name="_subject" value="Messaggio dal sito"/>
+        <input type="hidden" name="_next" value="http://www.twilightmelodies.com/pagina-successo.html"/>
+
+        <label for="nome">Nome e Cognome</label>
+        <input type="text" id="nome" name="nome" placeholder="Inserisci nome e cognome">
+
+        <label for="email">Email</label>
+        <input type="text" id="email" name="email" placeholder="Inserisci indirizzo di posta elettronica">
+ 
+        <label for="msg">Messaggio</label>
+        <textarea id="msg" name="msg" placeholder="Scrivi un messaggio"></textarea>
+          
+        <input type="submit" value="Invia"></form>
+        </p>
+        <footer id="footer4">
+            <p>Copyright &copy;2023 | Designed by Elisa Trovato</p>
+        </footer>
+    </body>
+</html>
