@@ -9,7 +9,7 @@ var question6 = document.quiz.question6.value;
 var correct = 0;
 
 
-if (question1=="Sopravvivono bevendo sangue animale") {
+if (question1=="Perché sopravvivono bevendo sangue animale") {
     correct++;
 }
 if (question2=="Preannuncia gli eventi") {
