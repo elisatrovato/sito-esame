@@ -358,7 +358,7 @@ input{
 }
 @media (max-width: 768px) {
     #quiz {
-        float: left;
+        margin-left: 90px;
     }
 }
     
