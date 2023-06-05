@@ -356,5 +356,7 @@ input{
 #pquiz{
     font-size: 20px;
 }
-
+@media (max-widht: 768px){
+    #quiz {margin-left: 190px;}
+}
     
