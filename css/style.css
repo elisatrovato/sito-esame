@@ -313,7 +313,7 @@ iframe{
     margin-top: 15px;
 }
 #quiz{
-    background: rgb(51, 47, 46); opacity: 75%;  
+    background: rgb(51, 47, 46); opacity: 75%; padding-right: 15%;
     padding: 10px 20px 10px 20px;
     width: 475px;
     border-radius: 5px;
