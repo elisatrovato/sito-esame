@@ -318,6 +318,8 @@ iframe{
     width: 955px;
     border-radius: 5px;
     margin-left: 215px;
+    @media (max-widht: 768px){
+    margin-left: 190px;
 }
 input{
     margin-bottom: 20px;
@@ -356,7 +358,5 @@ input{
 #pquiz{
     font-size: 20px;
 }
-@media (max-widht: 768px){
-    #quiz {margin-left: 190px;}
-}
+
     
