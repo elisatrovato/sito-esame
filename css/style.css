@@ -359,6 +359,7 @@ input{
 }
 @media screen and (max-width: 768px) {
     #quiz {
+        float: right;
         width: 365px;
     }
 }
