@@ -358,7 +358,9 @@ input{
 }
 @media (max-width: 768px) {
     #quiz {
-        margin-right: 70px;
+       flex-direction: column;
+       align-items: center;
+       position: static;
     }
 }
     
