@@ -360,6 +360,7 @@ input{
     #quiz {
        flex-direction: column;
        align-items: center;
+       position: static;
     }
 }
     
