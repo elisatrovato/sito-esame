@@ -358,9 +358,8 @@ input{
 }
 @media screen and (max-width: 768px) {
     #quiz {
-       flex-direction: column;
-       align-items: center;
-       position: static;
+        float: right;
+        width: 465px;
     }
 }
     
