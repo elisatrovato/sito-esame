@@ -318,9 +318,6 @@ iframe{
     width: 955px;
     border-radius: 5px;
     margin-left: 215px;
-        @media (max-widht:768px){
-        margin-left: 190px;
-    }
 }
 input{
     margin-bottom: 20px;
