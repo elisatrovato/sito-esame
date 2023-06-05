@@ -357,6 +357,6 @@ input{
     font-size: 20px;
 }
 @media screen and (max-widht: 768px) {
-    #quiz {margin-left: 190px;}
+    #quiz {margin-left: 170px;}
 }
     
