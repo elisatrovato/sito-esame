@@ -280,7 +280,6 @@ iframe{
 #imgarchitettura{
     height: 355px;
     width: 452.5px;
-
 }
 #imghome{
     height: 355px;
@@ -357,16 +356,16 @@ input{
 #pquiz{
     font-size: 20px;
 }
-#imgsponsorizzazione{
+#imgsponsorizzazione, #imgsponsorizzazione2{
     height: 425px;
-    width: 250px;
-}
-#imgsponsorizzazione2{
-    height: 425px;
-    width: 250px;
+    width: 235px;
 }
 #imgcommenti{
     height: 475px;
     width: 250px;
+}
+#imgpost, #imgpost2{
+    height: 470px;
+    width: 235px;
 }
   
