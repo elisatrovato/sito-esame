@@ -19,16 +19,16 @@ if (question2=="James") {
 if (question3=="In un polsino di pelle") {
     correct++;
 }
-if (question4=="Perché sopravvivono bevendo sangue animale"){
+if (question4=="Perché sopravvivono bevendo sangue animale") {
     correct++;
 }
 if (question5=="La spagnola") {
     correct++;
 }
-if (question6=="Preannuncia gli eventi"){
+if (question6=="Preannuncia gli eventi") {
     correct++;
 }
-if (question7=="Il puma"){
+if (question7=="Il puma") {
     correct++;
 }
 
