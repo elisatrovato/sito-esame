@@ -278,6 +278,7 @@ input{
     font-size: 15px;
     transition-duration: .5s;
     margin-top: 15px;
+    font-family: 'IM Fell Great Primer', serif;
 }
 #button:hover{
     background: white;
