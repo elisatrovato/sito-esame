@@ -44,7 +44,7 @@ var range;
 if (correct < 6 && correct > 1) {
     range = 2
 }
-if (correct > 4) {
+if (correct > 5) {
     range = 1;
 }
 if (correct > 7) {
