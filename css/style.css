@@ -1,7 +1,7 @@
 header{
     color: rgb(51,47,46);
     text-align: center;
-    font-family: "twilightnewmoon";
+    font-family: "twilightnewmoon", sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 25px;
@@ -16,12 +16,12 @@ footer{
     font-size: 18px;
     position: relative;
     width: 100%;
-    font-family: "twilightnewmoon";
+    font-family: "twilightnewmoon", sans-serif;
 }
 nav ul li{
     text-align: center;
     letter-spacing: 10px;
-    font-family: "twilightnewmoon";
+    font-family: "twilightnewmoon", sans-serif;
     font-size: 20px;
 }
 a{
@@ -142,13 +142,13 @@ ul{
 }
 #span3{
     font-weight: bold;
-    font-family: "twilightnewmoon";
+    font-family: "twilightnewmoon", sans-serif;
     font-size: 35px;
     color: rgb(110,110,110);
 }
 #span5{
     font-weight: bold;
-    font-family: "twilightnewmoon";
+    font-family: "twilightnewmoon", sans-serif;
     font-size: 35px;
     color: rgb(110,110,110);
 }
