@@ -10,25 +10,25 @@ var question6 = document.quiz.question7.value;
 var correct = 0;
 
 
-if (question1=="Perché sopravvivono bevendo sangue animale") {
+if (question1=="17") {
     correct++;
 }
-if (question2=="Preannuncia gli eventi") {
+if (question2=="James") {
     correct++;
 }
-if (question3=="La spagnola") {
+if (question3=="In un polsino di pelle") {
     correct++;
 }
-if (question4=="James"){
+if (question4=="Perché sopravvivono bevendo sangue animale"){
     correct++;
 }
-if (question5=="I nomadi") {
+if (question5=="La spagnola") {
     correct++;
 }
-if (question6=="In un polsino di pelle"){
+if (question6=="I nomadi"){
     correct++;
 }
-if (question7=="17"){
+if (question7=="Preannuncia gli eventi"){
     correct++;
 }
 
