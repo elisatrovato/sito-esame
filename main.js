@@ -25,10 +25,10 @@ if (question4=="Perché sopravvivono bevendo sangue animale"){
 if (question5=="La spagnola") {
     correct++;
 }
-if (question6=="I nomadi"){
+if (question6=="Preannuncia gli eventi"){
     correct++;
 }
-if (question7=="Preannuncia gli eventi"){
+if (question7=="Il puma"){
     correct++;
 }
 
