@@ -7,6 +7,7 @@ var question4 = document.quiz.question4.value;
 var question5 = document.quiz.question5.value;
 var question6 = document.quiz.question6.value;
 var question7 = document.quiz.question7.value;
+var question8 = document.quiz.question8.value;
 var correct = 0;
 
 
@@ -31,6 +32,9 @@ if (question6=="Preannuncia gli eventi") {
 if (question7=="Il puma") {
     correct++;
 }
+if (question8=="Trasmettere nella mente degli altri i suoi pensieri") {
+    correct++;
+}
 
 var messages = ["Ottimo lavoro :) ", "Ci sei quasi..", "Puoi fare di meglio!", "Riprova :( "];
 
@@ -43,10 +47,10 @@ if (correct < 6 && correct > 1) {
 if (correct > 4) {
     range = 1;
 }
-if (correct > 6) {
+if (correct > 7) {
     range = 0;
 }
-if (correct < 2) {
+if (correct < 4) {
     range = 3;
 }
 
