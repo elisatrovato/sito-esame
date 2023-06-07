@@ -31,23 +31,7 @@ a{
 ul{
     list-style-type: none;
 }
-.bodyback1{
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.bodyback2{
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.bodyback3{
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.bodyback4{
-    background-repeat: no-repeat; 
-    background-size: cover;
-}
-.bodyback5{
+.bodyback1, .bodyback2, .bodyback3, .bodyback4, .bodyback5{
     background-repeat: no-repeat;
     background-size: cover;
 }
