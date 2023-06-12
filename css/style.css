@@ -32,7 +32,7 @@ a{
 ul{
     list-style-type: none;
 }
-.bodyback1, .bodyback2, .bodyback3, .bodyback4, .bodyback5{
+#bodyback1, #bodyback2, #bodyback3, #bodyback4, #bodyback5{
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -76,7 +76,7 @@ ul{
     font-family: 'IM Fell Great Primer', serif;
     background-color: rgb(51,47,46); opacity: 70%; margin-left: 15%; margin-right: 15%; padding-top: 2.5%; padding-bottom: 2.5%; border-radius: 0.5%;
 }
-.h1, .h2, .h3, .h4, .h5{
+#h1, #h2, #h3, #h4, #h5{
     padding-top: 1%;
 }
 #section1{
@@ -92,7 +92,7 @@ ul{
     text-indent: 10px;
     background-color: rgb(51,47,46); opacity: 70%; margin-left: 20%; margin-right: 20%; padding-top: 1.5%; padding-bottom: 1.5%; border-radius:0.5%;
 }
-#section2{
+.section2{
     text-align: left;
     color: rgb(51,47,46);
     line-height: 25px;
@@ -101,7 +101,7 @@ ul{
     margin-bottom: 1.5%;
     margin-left: 2.5%; 
 }
-#section22{
+.section22{
     text-align: left;
     color: rgb(204,198,202);
     line-height: 25px;
