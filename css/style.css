@@ -116,7 +116,7 @@ ul{
     border-radius: 3px 3px 0px 0px;
     padding: 5px 4px 4.5px 12px;
 }
-#span01{
+.span01{
     font-style: italic;
     font-weight: bold;
     text-decoration: underline;
