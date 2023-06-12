@@ -121,11 +121,11 @@ ul{
     font-weight: bold;
     text-decoration: underline;
 }
-#span1{
+.span1{
     font-style: italic;
     font-weight: bold;
 }
-#span3, #span5{
+.span3, .span5{
     font-weight: bold;
     font-family: "twilightnewmoon", sans-serif;
     font-size: 35px;
