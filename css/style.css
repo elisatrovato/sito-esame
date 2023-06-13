@@ -50,7 +50,7 @@ ul{
     padding-left: 10%;
     padding-right: 10%;
     text-indent: 10px;
-    background-color: rgb(51,47,46); opacity: 70%; margin-left: 20%; margin-right: 20%; padding-top: 1.5%; padding-bottom: 1.5%; border-radius:0.5%;
+    background-color: rgb(51,47,46); opacity: 70%; margin-left: 15%; margin-right: 15%; padding-top: 1.5%; padding-bottom: 1.5%; border-radius:0.5%;
 }
 .section2{
     text-align: left;
@@ -256,9 +256,9 @@ iframe{
 #quiz{
     background: rgb(51, 47, 46); opacity: 75%;
     padding: 10px 20px 10px 20px;
-    width: 532px;
+    width: 955px;
     border-radius: 5px;
-    margin-left: 198px;
+    margin-left: 215px;
 }
 input{
     margin-bottom: 20px;
